@@ -52,7 +52,7 @@ const Contact = () => {
               {
                 icon: Mail,
                 title: "Email",
-                info: "info@saynotodrugs.pk",
+                info: "info@thattaanitnarcotics.pk",
                 subinfo: "Response within 24h"
               },
               {

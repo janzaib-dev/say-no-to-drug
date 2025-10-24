@@ -173,7 +173,7 @@ const Donate = () => {
                 </CardHeader>
                 <CardContent className="space-y-2 text-sm">
                   <p><span className="font-semibold">Bank:</span> [Bank Name]</p>
-                  <p><span className="font-semibold">Account Title:</span> Say No to Drugs - Thatta</p>
+                  <p><span className="font-semibold">Account Title:</span>  Nashe Ke Khilaf Thatha Ke Sath - Thatta</p>
                   <p><span className="font-semibold">Account Number:</span> XXXX-XXXX-XXXX</p>
                   <p><span className="font-semibold">IBAN:</span> PK XX XXXX XXXX XXXX XXXX XXXX</p>
                   <p className="text-muted-foreground pt-2">

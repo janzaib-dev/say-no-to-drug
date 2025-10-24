@@ -26,7 +26,7 @@ const Team = () => {
                         {
                           icon: Hospital,
                           title: "Murk",
-                          description: " Murk helped bring this website to life with their creativity and hard work, playing a special role in making our “Say No to Drug” project possible.",
+                          description: " Murk helped bring this website to life with their creativity and hard work, playing a special role in making our “Thatta Anit-Narcotics” project possible.",
                           contact: "Contact us for referrals"
                         },
                         {
@@ -38,7 +38,7 @@ const Team = () => {
                         {
                           icon: Hospital,
                           title: "Aresha",
-                          description: "Ayesha worked on creating social media posts and helped spread our message online to raise awareness about saying no to drugs.",
+                          description: "Aresha worked on creating social media posts and helped spread our message online to raise awareness about saying no to drugs.",
                           contact: "Contact us for referrals"
                         },
                         {

@@ -19,7 +19,7 @@ const Home = () => {
         <div className="container mx-auto px-4 py-24 md:py-32 relative z-10">
           <div className="max-w-3xl mx-auto text-center space-y-6 animate-fade-in">
             <h1 className="text-4xl md:text-6xl font-bold leading-tight">
-              Say No to Drugs in Thatta
+               Nashe Ke Khilaf Thatha Ke Sath in Thatta
             </h1>
             <p className="text-lg md:text-xl text-white/90">
               Together, we can save families, restore hope, and build a drug-free community in Thatta, Sindh.
