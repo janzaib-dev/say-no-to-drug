@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
-import { Heart, Mail, Phone, MapPin } from "lucide-react";
+import { Heart, Mail, Phone, MapPin, QrCode } from "lucide-react";
+import qrCode from "@/assets/qrCode.jpg"
 
 const Footer = () => {
   return (
@@ -77,6 +78,17 @@ const Footer = () => {
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
                 <span>info@thattaanitnarcotics.pk</span>
+              </div>
+              <div className="flex items-start flex-col   -space-x-6">
+                <div className="flex items-center">
+
+                <QrCode className="h-4 w-4 text-primary" />
+                <span> scan QR code</span>
+                </div>
+                <div>
+
+                <img src={qrCode} alt="" className="w-16 ml-11"/>
+                </div>
               </div>
             </div>
           </div>
