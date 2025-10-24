@@ -27,7 +27,7 @@ const Navbar = () => {
             <div className="w-24 h-24 ">
               <img src={logo} alt="" />
             </div>
-            <span className="font-bold text-xl text-primary"> Thatta Anit-Narcotics </span>
+            <span className="font-bold text-xl text-primary"> Thatta Anti-Narcotics </span>
           </Link>
 
           {/* Desktop Navigation */}

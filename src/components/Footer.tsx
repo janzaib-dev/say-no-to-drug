@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <h3 className="font-bold text-lg text-primary">
-              Thatta Anit-Narcotics
+              Thatta Anti-Narcotics
             </h3>
             <p className="text-sm text-muted-foreground">
               Working together to make Thatta drug-free. A community initiative
@@ -77,7 +77,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-primary" />
-                <span>info@thattaanitnarcotics.pk</span>
+                <span>info@Thatta Anti-Narcotics.pk</span>
               </div>
               <div className="flex items-start flex-col   -space-x-6">
                 <div className="flex items-center">

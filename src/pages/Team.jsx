@@ -26,7 +26,7 @@ const Team = () => {
                         {
                           icon: Hospital,
                           title: "Murk",
-                          description: " Murk helped bring this website to life with their creativity and hard work, playing a special role in making our “Thatta Anit-Narcotics” project possible.",
+                          description: " Murk helped bring this website to life with their creativity and hard work, playing a special role in making our “Thatta Anti-Narcotics” project possible.",
                           contact: "Contact us for referrals"
                         },
                         {
