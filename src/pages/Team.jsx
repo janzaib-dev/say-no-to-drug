@@ -26,10 +26,28 @@ const Team = () => {
                         {
                           icon: Hospital,
                           title: "Murk",
-                          description: "helped bring this website to life with their creativity and hard work, playing a special role in making our “Say No to Drug” project possible.",
+                          description: " Murk helped bring this website to life with their creativity and hard work, playing a special role in making our “Say No to Drug” project possible.",
                           contact: "Contact us for referrals"
                         },
-                    
+                        {
+                          icon: Hospital,
+                          title: "Amna",
+                          description: "Amna focused on content writing and helped craft powerful messages and slogans for the campaign..",
+                          contact: "Contact us for referrals"
+                        },
+                        {
+                          icon: Hospital,
+                          title: "Aresha",
+                          description: "Ayesha worked on creating social media posts and helped spread our message online to raise awareness about saying no to drugs.",
+                          contact: "Contact us for referrals"
+                        },
+                        {
+                          icon: Hospital,
+                          title: "Maheen",
+                          description: "Maheen  designed creative posters and visuals that made our campaign more engaging and impactful.",
+                          contact: "Contact us for referrals"
+                        },
+                        
                       ].map((resource, index) => (
                         <Card key={index} className="border-2 hover:shadow-lg transition-all animate-slide-in-left" style={{ animationDelay: `${index * 100}ms` }}>
                           <CardHeader>
